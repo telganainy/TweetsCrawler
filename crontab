@@ -1,0 +1,2 @@
+# m h  dom mon dow   command
+*/10 * * * * ~/tweet_crawler.py
